@@ -1,4 +1,4 @@
-**Senior Software Engineer @ Bondaval | MSc Applied Computational Science**
+**Software Engineer @ Bondaval | MSc Applied Computational Science**
 
 **What I Do:**
 - Lead development of scalable C++ engines for high-performance applications
@@ -7,7 +7,7 @@
 - Architect systems that handle massive data throughput with significant performance gains
 
 **Tech Stack:**
-- **Languages:** Golang, Vue.js, Python, Rust
+- **Languages:** Golang, C++, Python, Rust, Vue.js
 - **Tools:** CMake, Docker, Kubernetes, Azure Cloud, Github CI/CD, MongoDB, Postgres
 
 **Recent Highlights:**
